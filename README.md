@@ -1,4 +1,4 @@
-# ColabPy
+# Automation Agro
 🌟 **Descrição** 
 
 *Este projeto é uma ferramenta interativa escrita em Python, projetada para facilitar a gestão agrícola. Com funcionalidades como cálculo de dosagem de herbicidas e estimativa de insumos para áreas específicas, ele simplifica processos complexos e contribui para uma aplicação mais eficiente dos recursos no campo.*
